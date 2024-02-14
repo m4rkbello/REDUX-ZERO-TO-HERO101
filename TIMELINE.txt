@@ -1,0 +1,5 @@
+1. INSTALL PROJECT USING VITE BUNDLER
+-> npx create-vite@latest
+-> npm create vite@latest
+2. INSTALL REDUX DEPENDENCIES
+->
